@@ -25,10 +25,10 @@
 
 ## Connect with Me :)
 
-<a href="https://www.instagram.com/mohib_atif">
+<a href="https://www.instagram.com/mohib_atif" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/iamohib">
+<a href="https://www.linkedin.com/in/iamohib" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
