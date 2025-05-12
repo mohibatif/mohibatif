@@ -18,8 +18,7 @@ Artificial Intelligence and Design Enthusiast with the matter to solve complex d
 <img align="left" alt="Adobe Illustrator" width="44px" style="padding-right:20px;" src="https://i.postimg.cc/mgZD3wD3/adobe-illustrator-2.png" />
 <img align="left" alt="Adobe Photoshop" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <br>
-
-#
+<br>
 
 <div align="left">
 
