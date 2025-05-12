@@ -4,7 +4,7 @@
 
 **`Designing the Future`**
 
-Artificial Intelligence and Design Enthusiast with the matter to solve complex design solutions through unparalleled creativity.<br>
+👨‍💻 Artificial Intelligence and Design Enthusiast with the matter to solve complex design solutions through unparalleled creativity.
 <br>👨🏼‍🎓 Studying Artificial Intelligence at University of Mnagament & Technology.
 
 ---
