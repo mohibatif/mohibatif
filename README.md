@@ -24,8 +24,12 @@ Artificial Intelligence and Design Enthusiast with the matter to solve complex d
 
 ## Connect with Me :)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohib_atif)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamohib)
+<a href="https://www.instagram.com/mohib_atif">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/iamohib">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
